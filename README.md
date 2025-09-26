@@ -1,6 +1,7 @@
-#💫 Hi 👋, I'm Ramesh Raja
-- **A passionate Full Stack Mobile App Developer | Flutter & Node.js Developer**
-- Email Me 👉 ✉️ **rameshrajabusiness@gmail.com** For Collaboration, Projects, or Anything Else. 😊
+# 💫 Hi 👋, I'm Ramesh Raja
+**A passionate Full Stack Mobile App Developer | Flutter & Node.js Developer**
+
+Email Me 👉 ✉️ **rameshrajabusiness@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Backend development for a Library Management System
 - 🌱 **I’m currently learning:** Advanced Node.js and scalable backend architectures
