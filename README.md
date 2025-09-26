@@ -1,16 +1,15 @@
-# 💫 Hi 👋, I'm Ramesh Raja
-**A passionate Full Stack Mobile App Developer || Flutter Developer || NodeJs Developer**
+#💫 Hi 👋, I'm Ramesh Raja
+- **A passionate Full Stack Mobile App Developer | Flutter & Node.js Developer**
+- Email Me 👉 ✉️ **rameshrajabusiness@gmail.com** For Collaboration, Projects, or Anything Else. 😊
 
-Email Me 👉 ✉️ **rameshrajabusiness@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-- 🔭 **I’m currently working on:** A Library Managment System Backend
-- 🌱 **I’m currently learning:** Deep diving with NodeJs
-- 👯 **I’m looking to collaborate on:** Any Mobile app which bring revolution to real world
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
+- 🔭 **I’m currently working on:** Backend development for a Library Management System
+- 🌱 **I’m currently learning:** Advanced Node.js and scalable backend architectures
+- 👯 **I’m looking to collaborate on:** Innovative mobile apps that solve real-world problems
+- 🤔 **I’m looking for help with:** Challenging projects, code optimization, or tech guidance
+- 💬 **Ask me about:** Mobile app development, Flutter, Node.js, and backend solutions
 - 📫 **How to reach me:** rameshrajabusiness@gmail.com
-- 😄 **Pronouns:** He/Him/Coding Buddy
-- ⚡ **Fun fact:** I love watching anime and my favourite animes OnePiece, DeathNote, Naruto, Bleach and many more.
+- 😄 **Pronouns:** He/Him | Coding Buddy
+- ⚡ **Fun fact:** Anime fan 🎬 — favorites include One Piece, Death Note, Naruto, Bleach, and many more
 
 
 ## 🌐 Socials:
