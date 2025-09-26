@@ -13,8 +13,10 @@ Email Me 👉 ✉️ **rameshrajabusiness@gmail.com** For Collaboration/Project 
 - ⚡ **Fun fact:** Anime fan 🎬 — favorites include One Piece, Death Note, Naruto, Bleach, and many more
 
 
+
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/RameshRajaMk4?sfnsn=scwspwa&mibextid=RUbZ1f) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/its_rameshbalach?igsh=MmRhZXk4aWs0bjI2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ramesh-raja-b63a5627b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rameshrajabusiness@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/RameshRajaMk4) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_rameshbalach) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramesh-raja-b63a5627b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rameshrajabusiness@gmail.com) 
+
 
 
 
